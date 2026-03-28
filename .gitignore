@@ -1,0 +1,5 @@
+sim.out
+waves.vcd
+waveform.html
+__pycache__/
+*.pyc
